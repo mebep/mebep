@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mebep
+- 👀 I’m interested in solidity programming
+- 🌱 I’m currently learning js and solidity
+- 📫 How to reach me twitter: @re4anty
